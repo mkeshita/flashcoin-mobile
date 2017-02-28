@@ -1,0 +1,22 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "module": "es2015",
+        "noImplicitAny": false,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "outDir": "dist/",
+        "allowJs": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "target": "es5"
+    },
+    "exclude": [
+        "jspm_packages",
+        "node_modules",
+        "assets",
+        "dist",
+        "public",
+        "jspm.config.js"
+    ]
+}
